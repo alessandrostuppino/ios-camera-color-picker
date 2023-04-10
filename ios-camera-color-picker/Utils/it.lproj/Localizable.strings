@@ -1,0 +1,31 @@
+//
+//  Camera Colour Picker
+//
+
+// MARK: - Camera Error
+
+"camera-error.unavailable" = "Fotocamera non disponibile";
+"camera-error.no-capture-input" = "Non è stato possibile creare la sessione";
+"camera-error.no-video-output" = "Non è stato possinile aggiungere lo stream di output alla sessione";
+"camera-error.creating-capture-input" = "Errore durante la creazione della sessione: ";
+"camera-error.access-denied" = "Permesso fotocamera negato";
+"camera-error.restricted-capture-device" = "Si sta tentando di accedere ad un dispositivo con restrizioni";
+"camera-error.unknown-authorization" = "Stato di autorizzazione al dispositivo sconosciuto";
+
+// MARK: - Frame View
+
+"frame-view.camera-feed" = "Fotocamera";
+"frame-view.no-camera-feed-available" = "Fotocamera non disponibile";
+
+// MARK: - Color Gallery View
+
+"color-gallery-view.no-colors-saved" = "Nessun colore salvato.";
+"color-gallery-view.sort-by-date" = "Data di creazione";
+"color-gallery-view.sort-from-brighter" = "Dal più chiaro al più scuro";
+"color-gallery-view.sort-from-darker" = "Dal più scuro al più chiaro";
+"color-gallery-view.alert-title" = "Attenzione!";
+"color-gallery-view.alert-message" = "Così facendo eliminerai tutti i colori salvati. Vuoi procedere?";
+"color-gallery-view.alert-no" = "No";
+"color-gallery-view.alert-yes" = "Si, cancella tutto!";
+"color-gallery-view.copy-hex" = "Copia Esadecimale";
+"color-gallery-view.delete-color" = "Elimina";

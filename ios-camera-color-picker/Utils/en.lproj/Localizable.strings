@@ -1,0 +1,31 @@
+//
+//  Camera Colour Picker
+//
+
+// MARK: - Camera Error
+
+"camera-error.unavailable" = "Camera unavailable";
+"camera-error.no-capture-input" = "Cannot add capture input to session";
+"camera-error.no-video-output" = "Cannot add video output to session";
+"camera-error.creating-capture-input" = "Creating capture input for camera: ";
+"camera-error.access-denied" = "Camera access denied";
+"camera-error.restricted-capture-device" = "Attempting to access a restricted capture device";
+"camera-error.unknown-authorization" = "Unknown authorization status for capture device";
+
+// MARK: - Frame View
+
+"frame-view.camera-feed" = "Camera Feed";
+"frame-view.no-camera-feed-available" = "No Camera Feed Available";
+
+// MARK: - Color Gallery View
+
+"color-gallery-view.no-colors-saved" = "No color saved yet.";
+"color-gallery-view.sort-by-date" = "Creation Date";
+"color-gallery-view.sort-from-brighter" = "Brighter to Darker";
+"color-gallery-view.sort-from-darker" = "Darker to Brighter";
+"color-gallery-view.alert-title" = "Warning!";
+"color-gallery-view.alert-message" = "Doing so you will delete all the saved colors. Are you sure you want to proceed?";
+"color-gallery-view.alert-no" = "Never mind";
+"color-gallery-view.alert-yes" = "Yes, delete all!";
+"color-gallery-view.copy-hex" = "Copy Hexadecimal";
+"color-gallery-view.delete-color" = "Delete";
